@@ -1,0 +1,97 @@
+.button{
+	border:0;
+	outline:0;
+	border-radius:10%;
+	padding: 5px;
+	font:12px 굴림;
+	font-weight: bold;
+	color: #fff;
+	background-color:#ff9a9a;
+}
+.button:hover{
+	
+	background-color:#f56a6a;
+}
+.button1{
+	border:0;
+	outline:0;
+	border-radius:10%;
+	padding: 5px;
+	font:12px 굴림;
+	font-weight: bold;
+	color: #fff;
+	background-color:#f2ba91;
+}
+.button1:hover{
+	background-color:#f5a46a;
+}
+.button2 {
+  display: inline-block;
+  padding: .5em .75em;
+  color: #999;
+  font-size: inherit;
+  line-height: normal;
+  vertical-align: middle;
+  background-color: #fdfdfd;
+  cursor: pointer;
+  border: 1px solid #ebebeb;
+  border-bottom-color: #e2e2e2;
+  border-radius: .25em;
+}
+.container{
+	position: absolute;
+	top:380px;
+    /*top:20px;*/
+    left:135px;
+	transform:translate(-50%,-50%);
+}
+
+.upload-box{
+	font-size:inherit;
+	background:#f2ba91;
+	border-radius:.25em;
+	width:450px;
+	outline:none;
+}
+::-webkit-file-upload-button{
+	color:white;
+	padding:.2em .37em;
+	border:none;
+	border-radius:.25em;
+	background-color:#f2ba91;
+}
+::-webkit-file-upload-button:hover{
+	background:#f5a46a;
+}
+.button3{
+	position: absolute;
+	top:400px;
+    left:10px;
+	border:0;
+	outline:0;
+	border-radius:10%;
+	padding: 5px;
+	font:12px 굴림;
+	font-weight: bold;
+	color: #fff;
+	background-color:#f2ba91;
+}
+.button3:hover{
+	background-color:#f5a46a;
+}
+.button4{
+	position: absolute;
+	top:128px;
+    left:200px;
+	border:0;
+	outline:0;
+	border-radius:10%;
+	padding: 5px;
+	font:12px 굴림;
+	font-weight: bold;
+	color: #fff;
+	background-color:#f2ba91;
+}
+.button4:hover{
+	background-color:#f5a46a;
+}
